@@ -8,3 +8,11 @@ article, aside, details, figcaption, figure, footer, header, main, nav, section,
     display:block;
 }
 
+body {
+    background-color: #192841;
+    color: #ffffff;
+}
+
+h1, h2, h3 {
+    color: #fe4b03; 
+}
