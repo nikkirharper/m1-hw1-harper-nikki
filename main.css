@@ -33,3 +33,7 @@ nav ul li {
 nav ul li a {
     color: #ffffff;
 }
+
+main {
+    padding: 20px 0; 
+}
