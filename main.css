@@ -11,9 +11,21 @@ article, aside, details, figcaption, figure, footer, header, main, nav, section,
 body {
     background-color: #192841;
     color: #ffffff;
+    padding: 50px 0 0 50px; 
 }
 
 h1, h2, h3 {
     color: #fe4b03;
     font-family: 'Permanent Marker', cursive;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    padding-right: 20px; 
+    font-weight: bold;
+    text-transform: uppercase;
 }
